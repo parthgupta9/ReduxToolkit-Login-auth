@@ -1,0 +1,24 @@
+
+#home{
+    font-size: 20px;
+    margin-right: 60px;
+
+}
+.option{
+    font-size: medium;
+    border-radius: 100px;
+    width: 100px;
+    height: 30px;
+    margin-top: 7px;
+}
+.nav-link{
+    margin-left: 1rem;
+}
+#forms{
+   float: left;
+   margin-left: auto;
+   
+}
+#label{
+    margin-left: auto;
+}

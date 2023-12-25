@@ -1,0 +1,13 @@
+.main{
+    margin-bottom: 40px;
+}
+
+.cartcard{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 40vw;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-left: 30vw;
+}
